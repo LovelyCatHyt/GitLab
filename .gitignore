@@ -1,1 +1,5 @@
 .vscode/
+*.txt
+!Test/File0.txt
+*.txt
+!Test/File1.txt
