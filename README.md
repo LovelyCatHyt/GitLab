@@ -7,4 +7,5 @@ Now I add some special rules in .gitignore. The files in my local disks are:*Tes
 ## 2020-01-03
 Add a file in Test/ChildFolder, with a file named "A.txt".  
 .gitginore also changed. It shows that "!Test/*.txt" only matches the txt files in "Test/", instead of all txt files both in "Test/" and in "Test/ChildFolder".  
-Now I add a new line directly on github through website. Will the Pull.bat run correctly?
+Now I add a new line directly on github through website. Will the Pull.bat run correctly?  
+Yes, it works. See [Pull.bat](Pull.bat)
